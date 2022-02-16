@@ -96,6 +96,8 @@ const Section_1 = () => {
           <label for='check-menu'></label>
           <div className='burger-line first'></div>
           <div className='burger-line second'></div>
+          <div className='burger-line third'></div>
+          <div className='burger-line fouth'></div>
           <nav className='main-menu'>
             <a className='burger__link' href='#'>
               {" "}
