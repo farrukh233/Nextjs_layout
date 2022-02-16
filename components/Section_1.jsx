@@ -1,6 +1,6 @@
 import tanks from "../img/tanks.png";
 import arrow from "../img/arrow.png";
-const Layout = () => {
+const Section_1 = () => {
   return (
     <div>
       <section className='section__one'>
@@ -120,4 +120,4 @@ const Layout = () => {
   );
 };
 
-export default Layout;
+export default Section_1;

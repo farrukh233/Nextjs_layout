@@ -1,4 +1,3 @@
-import Layout from "../components/Layout";
 import "../styles/style.css";
 import "../styles/reset.css";
 import "../styles/media.css";
